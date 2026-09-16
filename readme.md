@@ -32,17 +32,35 @@ Transforming traditional hiring processes, this application evaluates resumes ag
 
 ---
 
+
 ## 🛠 Tech Stack
 
 ### Frontend
-
-Built with Next.js, TypeScript, and Tailwind CSS, featuring glassmorphism styles and asynchronous multipart form handling.
-
-### Backend
-
-Powered by Python, FastAPI, Pydantic validation schemas, Google Gemini Flash API (`gemini-3.6-flash`), and document parsers for PDF/DOCX extraction.
+<div align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Lucide-F56565?style=for-the-badge&logo=lucide&logoColor=white" alt="Lucide Icons" />
+</div>
+<p>Built with Next.js, TypeScript, and Tailwind CSS, featuring glassmorphism styles, responsive grid layouts, and asynchronous multipart form handling.</p>
 
 ---
+
+### Backend, AI & LLM Core
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="RAG Pipelines" />
+  <img src="https://img.shields.io/badge/Agentic_AI-764ABC?style=for-the-badge&logo=artificialintelligence&logoColor=white" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
+</div>
+<p>Powered by Python, FastAPI, strict Pydantic validation schemas, Google Gemini Flash API (<code>gemini-3.6-flash</code>), LangChain frameworks, RAG parsing pipelines, and Agentic AI workflows for deep resume intelligence.</p>
+
+---
+
 
 ## 📁 Project Structure
 
